@@ -6,7 +6,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amshrestha2020&label=Profile%20views&color=0e75b6&style=flat" alt="amshrestha2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amshrestha2020" alt="amshrestha2020" /></a> </p>
 
@@ -27,3 +26,11 @@
 
 <p>&nbsp;<img align="center" <a href="http://www.github.com/amshrestha2020"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amshrestha2020&stroke=ffffff&background=1e3a8a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=amshrestha2020&style=for-the-badge&color=blue" alt=""/>
+</div>
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
