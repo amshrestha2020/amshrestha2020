@@ -18,12 +18,12 @@ and cloud infrastructure for financial services platforms.
 Java · Spring Boot · Python · AWS · Docker · Kubernetes · Terraform · PostgreSQL · MongoDB
 
 ## 📌 Highlight Projects
-- **[Project Name]** — Real-time hand gesture recognition using MediaPipe (125⭐ · 40 forks)
+- **[Gesture Control App]** — Real-time hand gesture recognition using MediaPipe (125⭐ · 40 forks)
 - **[RSMT]** — Web-based remote infrastructure monitoring tool
-- **[Project Name]** — brief one-line impact statement
+
 
 ## 📫 Connect
-[Email](mailto:asheshmshrestha@gmail.com)
+[EMAIL](mailto:asheshmshrestha@gmail.com)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
