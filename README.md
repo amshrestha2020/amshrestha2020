@@ -1,10 +1,29 @@
 
-<h3 align="center">A Developer</h3>
+<h1 align="center">Hi, I'm Ashesh Shrestha 👋</h1>
 
 <p align="center">
-  <img width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Software Engineer with 5+ years building microservices, backend systems, 
+and cloud infrastructure for financial services platforms.
 </p>
 
+🔭 **Currently:** Architecting Java/Spring Boot microservices for reinsurance and banking platforms.
+
+🎓 **Education:** 
+1. MSc in Computer Science, Montclair State University
+2. B.Sc. in Computer Science & Information Technology, Institute of Science & Technology(IOST), Tribhuvan University
+
+---
+
+## 🛠️ Tech Stack
+Java · Spring Boot · Python · AWS · Docker · Kubernetes · Terraform · PostgreSQL · MongoDB
+
+## 📌 Highlight Projects
+- **[Project Name]** — Real-time hand gesture recognition using MediaPipe (125⭐ · 40 forks)
+- **[RSMT]** — Web-based remote infrastructure monitoring tool
+- **[Project Name]** — brief one-line impact statement
+
+## 📫 Connect
+[Email](mailto:asheshmshrestha@gmail.com)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
