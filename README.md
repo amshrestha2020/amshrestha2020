@@ -9,8 +9,9 @@ and cloud infrastructure for financial services platforms.
 🔭 **Currently:** Architecting Java/Spring Boot microservices for reinsurance and banking platforms.
 
 🎓 **Education:** 
-1. MSc in Computer Science, Montclair State University
-2. B.Sc. in Computer Science & Information Technology, Institute of Science & Technology(IOST), Tribhuvan University
+1. MSc in Artificial Intelligence - Data Analytics, Indiana Wesleyan University
+2. MSc in Computer Science, Montclair State University
+3. B.Sc. in Computer Science & Information Technology, Institute of Science & Technology(IOST), Tribhuvan University
 
 ---
 
